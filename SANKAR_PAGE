@@ -13,6 +13,9 @@ width:700px;
 height:600px;
 border-spacing:10px 10px;
 }
+td{
+background:#CCFFFF;
+}
 </style>
 <head>
 <body bgcolor="red">
